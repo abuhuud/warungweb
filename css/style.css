@@ -55,12 +55,12 @@
 
 .layanan,
 .cta {
-  background-image: url("https://abuhuud.github.io/warungweb/img/bg-pattern.png");
+  background-image: url("/https://abuhuud.github.io/warungweb/img/bg-pattern.png");
   background-size: cover;
 }
 
 #cta {
-  background-image: url("https://abuhuud.github.io/warungweb/img/invite-bg.svg");
+  background-image: url("/https://abuhuud.github.io/warungweb/img/invite-bg.svg");
   background-size: cover;
   height: 350px;
 }
