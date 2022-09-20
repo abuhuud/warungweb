@@ -55,12 +55,12 @@
 
 .layanan,
 .cta {
-  background-image: url("/landingpage/img/bg-pattern.png");
+  background-image: url("./img/bg-pattern.png");
   background-size: cover;
 }
 
 #cta {
-  background-image: url("/landingpage/img/invite-bg.svg");
+  background-image: url("./img/invite-bg.svg");
   background-size: cover;
   height: 350px;
 }
