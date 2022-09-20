@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.bg-grey {
+  background: #F5F5F5;
+}
+
+.bg-blue {
+  background: #0092FF;
+}
+
+.font-light {
+  font-weight: 300;
+}
+
+.font-regular {
+  font-weight: 400;
+}
+
+.font-semibold {
+  font-weight: 500;
+}
+
+.heading {
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.font-blue {
+  color: #0092FF;
+}
+
+.nav-item:hover {
+  color: #0092FF;
+  transition: .3s ease all;
+}
+
+.jumbotron h1 {
+  font-size: 40px;
+}
+
+.content {
+  font-size: 20px;
+  color: #303030;
+  font-weight: 300;
+}
+
+.layanan,
+.cta {
+  background-image: url("/landingpage/img/bg-pattern.png");
+  background-size: cover;
+}
+
+#cta {
+  background-image: url("/landingpage/img/invite-bg.svg");
+  background-size: cover;
+  height: 350px;
+}
+
+#cta h1 {
+  font-size: 38px;
+  font-weight: 500;
+}
+
+#cta h3 {
+  font-size: 28px;
+  font-weight: 300;
+}
